@@ -12,5 +12,6 @@ public class BeanFactory {
 		return null;
 
 		//임세민 바보
+		//임세민 멍청이
 	}
 }
